@@ -1,0 +1,31 @@
+{
+    "name": "PUBULI",
+    "description": "Public Bus Line NFT",
+    "image": "https://ipfs.io/ipfs/QmXKT1QDbNJQW5eGh2XokL9nt5AQnMKAcWQqxpeuo9o3Tc?filename=pubulium.svg",
+    "type": "image/svg+xml",
+    "files": [ 
+    {
+        "uri": "policy.pdf",
+        "type": "application/pdf",
+        "metadata": {
+            "name": "A-1722 Policy",
+            "description": "A-1722 public bus lune policy",
+            "image": "https://ipfs.io/ipfs/QmXKT1QDbNJQW5eGh2XokL9nt5AQnMKAcWQqxpeuo9o3Tc?filename=pubulium.svg",
+            "format": "none",
+            "properties": {
+                "additional_description": "A-1722 public bus lune policy contains terms of ownership."
+            }
+        }
+    }
+    ],
+    "format": "none",
+    "properties": {
+      "group": "A_1722",
+      "group_title": "Pubuli(A-1722)NFT",
+      "number_of_items": "1",
+      "which_item": "1",
+      "door_id": "A-1722",
+      "manager": "EMRE MEHMET ÖZBEK",
+      "token_id": "5"
+    }
+}
